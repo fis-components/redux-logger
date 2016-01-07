@@ -2,9 +2,9 @@
     "name": "redux-logger",
     "description": "Logger for redux",
     "repos": "https://github.com/fcomb/redux-logger.git",
-    "main": "build/logger.js",
+    "main": "build/index.js",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
-    "version": "0.0.3"
+    "version": "1.0.0"
 }
